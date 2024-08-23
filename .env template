@@ -1,0 +1,2 @@
+API.URL=url del api sin basic Auth de mockapi.io
+API.BASICAUTH.URL=url del api con basic Auth de wiremockapi.cloud
